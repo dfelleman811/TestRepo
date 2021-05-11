@@ -1,7 +1,3 @@
 This is my first text file of my new test repo.
 
-Adding some new things. 
-
-
-
-Blah blah blah. 
+This is in my 'dan' branch
