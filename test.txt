@@ -1,3 +1,5 @@
 This is my first text file of my new test repo.
 
 This is in my 'dan' branch
+test.txt
+test2.txt
